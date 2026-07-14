@@ -1,0 +1,6 @@
+{
+  "name": "AIGen Test Pro",
+  "description": "An advanced AI-powered Test Generator with standard exam templates, local persistence, PWA layout, OCR conversion, and full CBT simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
